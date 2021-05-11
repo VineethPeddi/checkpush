@@ -1,2 +1,2 @@
 This is readme file.
-The infomation is not correct.
+The information is correct.
