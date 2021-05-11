@@ -1,0 +1,2 @@
+Changes after first commit in index file
+This is the beginning
